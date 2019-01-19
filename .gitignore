@@ -1,0 +1,6 @@
+.idea/**
+*.iml
+**/.idea/**
+**/*.iml
+cmake-build-debug/**
+**/logs/**
